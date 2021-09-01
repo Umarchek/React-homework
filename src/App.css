@@ -1,0 +1,9 @@
+.App {
+    text-align: center;
+}
+
+.headTitle {
+    color: red;
+    box-shadow: 2px 2px 10px red;
+    font-size: 40px;
+}
